@@ -209,3 +209,8 @@ __marimo__/
 
 #dataset csv
 creditcard.csv
+
+X_test.csv
+y_test.csv
+X_train_resampled.csv
+y_train_resampled.csv
