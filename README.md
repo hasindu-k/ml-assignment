@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- KNN
+- Support Vector Machine (SVM)
 
 ## Steps
 
